@@ -100,7 +100,7 @@ python-dateutil
 python-jsonrpc-server
 python-language-server
 pytz
-pywin32==228
+pywin32
 pywin32-ctypes
 pywinpty
 PyYAML==5.4.1
